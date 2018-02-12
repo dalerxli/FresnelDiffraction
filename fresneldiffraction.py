@@ -4,7 +4,6 @@
 Created on Mon Nov 27 09:10:37 2017
 
 Fresnel Diffraction Approximation Tools for Bristol University Physics Laboratory.
-Please ask for permission before distributing.
 
 @author: S Nickolls
 """
